@@ -1,0 +1,42 @@
+Demo URL:
+https://brux.superhi.com/
+
+Typeface:
+Rubik
+https://fonts.google.com/specimen/Rubik
+
+General –
+Sky blue: #c7f2f1
+Dark blue: #052837
+Font: Rubik 18px, weight: 300
+Line height: 1.5
+
+Header –
+Logo: 24px Rubik, weight: 900 italic 
+
+h2 –
+48px Rubik, weight 500
+Line height: 1.25
+
+h3 –
+32px Rubik, weight 500
+Line height: 1.25
+
+Hero copy –
+Keep your teeth healthy and happy
+With Brux Dental products, you can keep a smile that’s worth protecting, whatever you eat.
+Read more
+
+First section –
+The world’s best toothpastes and mouthwashes
+We work with some of the world’s leading dentists and dental scientists to provide you with the best products to care for your teeth and gums.
+
+Second section –
+Top protection against sugary effects
+While it’s sensible to not go too overboard with your sugar intake, we know that you’re a real person too. Our products have been proven to neutralize sugar better than any leading-brand competitor.
+
+
+Photography:
+https://unsplash.com/photos/pVPXeT7rIu0
+https://unsplash.com/photos/k8OCHhEymME
+https://unsplash.com/photos/TWV4rLhfdJc
