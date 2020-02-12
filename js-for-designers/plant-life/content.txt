@@ -1,0 +1,33 @@
+Demo URL:
+https://plant-slideshow.superhi.com/
+
+Typeface:
+Young Serif
+http://uplaod.fr/fonts/young-serif-2
+
+IBM Plex Mono
+https://www.ibm.com/plex/
+
+General –
+Body font size: 16px
+Line height: 1.6
+Text color: #2a2a2a
+
+Nav –
+Font: Young Serif at 24px
+Background: #00b98d
+Color: #ffffff
+Text - Shop, About, Help, Blog
+
+Main area –
+Header: 48px Young Serif, with 1.2 line height
+Button color: #00b98d
+
+Main area copy –
+
+Plant set
+
+This beginner plant set, containing 6 succulents, 3 cacti and 2 trees is aimed at sprucing up your apartment. It’s suitable for places with both bright and low access to sunlight. Each plant comes with it’s own perfect plant bot.
+
+Buy for $599
+

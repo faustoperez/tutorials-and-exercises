@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Heat map</title>
+		<link rel="stylesheet" href="css/base.css">
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+        <header>
+            <h1>Compare monthly temperatures across the globe</h1>
+
+            <select name="temperatures">
+                <option value="c">Celsius</option>
+                <option value="f">Fahrenheit</option>
+            </select>
+        </header>
+
+        <svg></svg>
+
+
+	<script src="https://d3js.org/d3.v5.min.js"></script>
+	<script src="js/data.js"></script>
+	<script src="js/heat-map.js"></script>
+		
+	</body>
+</html>

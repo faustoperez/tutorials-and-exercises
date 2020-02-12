@@ -1,0 +1,36 @@
+Demo URL:
+https://jenna-buchholz.superhi.com/
+
+Typeface:
+HK Grotesk
+https://hanken.co/product/hk-grotesk/
+
+Header –
+HK Grotesk at 36px
+Color #333333
+Color on dark backgrounds: #ffffff
+Line height 1.25x
+
+Section 1 –
+Alter Ego 1 / 2
+Background: #c8dee0
+Square: #d54156 at 10% parallax
+Circle: #5982a0 at -10% parallax
+
+Section 2 –
+Alter Ego 2 / 2
+Background: #c5c5c5
+Square: #d6ac35 at 20% parallax
+Circle: #be3c52 at -20% parallax
+
+Section 3 –
+Valencia Clothing 1 / 2
+Background: #292121
+Square: #5f3736 at 40% parallax
+Circle: #6e5f67 at -40% parallax
+
+Section 4 –
+Valencia Clothing 2 / 2
+Background: #f3f1f2
+Square: #d54156 at 10% parallax
+Circle: #5982a0 at 25% parallax

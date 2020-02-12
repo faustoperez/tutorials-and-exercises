@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Discover the world</title>
+		<link href="https://fonts.googleapis.com/css?family=Work+Sans&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="css/base.css">
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+		<header>
+			<h1>
+				<img src="img/logo.svg" alt="Discover the world">
+			</h1>
+
+			<form>
+				<select name="valueX">
+					<option value="singlePerson" selected>Single person cost</option>
+					<option value="family">Family of 4 cost</option>
+					<option value="apartment">1 bed city-center apartment</option>
+					<option value="utilities">Cost of monthly utilities</option>
+					<option value="monthlyPass">Monthly cost of transport</option>
+					<option value="expensiveMeal">Expensive meal for 2</option>
+				  </select>
+
+				<span>vs</span>
+
+				<select name="valueY">
+					<option value="singlePerson">Single person cost</option>
+					<option value="family" selected>Family of 4 cost</option>
+					<option value="apartment">1 bed city-center apartment</option>
+					<option value="utilities">Cost of monthly utilities</option>
+					<option value="monthlyPass">Monthly cost of transport</option>
+					<option value="expensiveMeal">Expensive meal for 2</option>
+				  </select>
+
+			</form>
+		</header>
+		<svg></svg>
+
+	<script src="https://d3js.org/d3.v5.min.js"></script>
+	<script src="js/data.js"></script>
+	<script src="js/cities.js"></script>
+		
+	</body>
+</html>

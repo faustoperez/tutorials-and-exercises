@@ -1,0 +1,24 @@
+Demo URL:
+https://type-checker.superhi.com/
+
+Typeface:
+Faune
+http://www.cnap.graphismeenfrance.fr/faune/en.html
+
+General –
+Black color: #2a2a2a
+White color: #ffffff
+Text box background: #575757
+Lime green: #63ff03
+Pink: #ee0073
+
+Typography –
+Body: Faune at 16px, line-height 1.5x
+Logo: Faune bold at 24px
+
+Sidebar: 280px wide
+
+Initial copy:
+The quick brown fox jumps over the lazy dog
+https://en.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_the_lazy_dog
+

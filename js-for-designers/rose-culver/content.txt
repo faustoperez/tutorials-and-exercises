@@ -1,0 +1,36 @@
+Demo URL:
+https://rose-culver.superhi.com/
+
+Typeface:
+Bluu Next
+https://velvetyne.fr/fonts/bluu/
+
+General –
+h1 font-size: 24px
+h2 font-size: 10vmin
+Text color: #000000
+Line height: 1.25
+
+Circle size: 20px by 20px
+
+H1 copy: Rose Culver is...
+
+Slide 1 –
+Background: #edc7a9
+Circle: #3e78ed
+Copy: a Brooklyn-based graphic designer
+
+Slide 2 –
+Background: #a1fffe
+Circle: #e34a47
+Copy: Kanye West's biggest fan
+
+Slide 3 –
+Background: #d3c7f3
+Circle: #f7fe00
+Copy: looking for a job at the start of October
+
+Slide 4 –
+Background: #faffb8
+Circle: #b472e6
+Copy: letting you <a href="pdf.pdf">download her PDF</a>
