@@ -13,9 +13,7 @@ const toggleHeader = function () {
 
  const fadeBox = function () {
     const pixels = window.pageYOffset
-
     const alpha = Math.min(pixels / 1000, 0.3)
-
     headerTag.style.boxShadow = `0 0 10px rgba(0, 0, 0, ${alpha})`
  }
 
