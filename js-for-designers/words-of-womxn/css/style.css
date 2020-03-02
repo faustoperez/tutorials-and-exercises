@@ -18,6 +18,8 @@ body {
 	color: #15403d;
 	margin: 240px auto;
 	max-width: 1120px;
+
+	transition: background-color .5s linear;
 }
 
 p {
@@ -58,6 +60,7 @@ section:nth-child(odd) {
 
 section div {
 	padding: 40px;
+	position: relative;
 }
 
 section img {
