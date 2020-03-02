@@ -3,7 +3,6 @@ const irisRight = document.querySelector("div.iris-right")
 
 let interval = null
 
-
 const startInterval = function () {
     clearInterval(interval)
     interval = setInterval(() => {
@@ -14,7 +13,6 @@ const startInterval = function () {
         moveEye(irisRight, x, y)
     }, 3000)
 }
-
 
 const moveEye = function (tag, mouseX, mouseY) {
   

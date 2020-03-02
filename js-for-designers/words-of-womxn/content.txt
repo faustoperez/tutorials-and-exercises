@@ -1,0 +1,36 @@
+Demo URL:
+https://words-of-womxn.superhi.com/
+
+Typeface –
+Syne + Syne Extra
+http://www.lucasdescroix.fr/syne
+
+General –
+Background color: #f4e6d8
+Text color: #15403d
+Author color: #e5745d
+
+Malala background color: #ffd5b1
+Maya background color: #eeeeee
+
+Typography –
+Body: Syne at 32px, line-height 1.25
+Author: Syne Extra at 32px, line-height 1.25
+
+Copy –
+
+“Your lives matter. Your voices matter. Your stories matter.”
+Laverne Cox
+
+“If one man can destroy everything, why can one girl change it?”
+Malala Yousafzai
+
+“You may not control all the events that happen to you, but you can decide not to be reduced by them.”
+Maya Angelou
+
+“[Unlikeable women] accept the consequences of their choices, and those consequences become stories worth reading.”
+Roxane Gay
+
+Audio from:
+https://freesound.org/people/edsward/sounds/343097/
+
