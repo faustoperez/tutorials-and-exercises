@@ -8,6 +8,11 @@
 	src: url(../fonts/syne-extra.woff2), url(../fonts/syne-extra.woff);
 }
 
+@keyframes spin {
+	0% { transform: translate(-50%, -50%) rotate(0deg); }
+	100% { transform: translate(-50%, -50%) rotate(360deg); }
+}
+
 
 body {
 	font-family: "Syne", Arial, sans-serif;
@@ -18,6 +23,8 @@ body {
 	color: #15403d;
 	margin: 240px auto;
 	max-width: 1120px;
+
+	overflow-x: hidden;
 
 	transition: background-color .5s linear;
 }
@@ -65,4 +72,16 @@ section div {
 
 section img {
 	position: relative;
+}
+
+div.stamps {
+	position: absolute;
+	top: 0;
+	left: 50%;
+	width: 50%;
+}
+
+div.stamps img {
+	position: absolute;
+	animation: spin 30s linear infinite;
 }
