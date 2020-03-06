@@ -1,0 +1,12 @@
+body {
+	font-family: Arial;
+	font-size: 16px;
+	line-height: 1.5;
+	
+	background-color: #fe934b;
+	color: #333333;
+}
+
+canvas {
+	vertical-align: bottom;
+}
