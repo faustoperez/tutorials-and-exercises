@@ -1,47 +1,38 @@
-let position
-let speed
-let radius
-// let sound
 
-// function preload() {
-//     sound = loadSound("drop.mp3")
-// }
+let flowers
+let hue
+let size
 
 function setup() {
     createCanvas(windowWidth, windowHeight)
-    position = createVector(100, 50)
-    speed = createVector(5, 5)
-    radius = 50
+    flowers = []
+    hue = random(0, 100)
+    size = 20
 }
 
 function draw() {
-    background("#fe934b30")
-    fill("#fff")
-    noStroke()
-    circle(position.x, position.y, radius * 2)
+    background("#111118")
+    flowers.forEach(flower => {
+        flower.draw()
+    })
+}
 
-    position.add(speed)
+function mouseDragged() {
+    hue = hue + 0.1
+    size = size + 1
 
-    if (position.x > windowWidth - radius || position.x < radius) {
-        speed.x = speed.x * -1
-        // sound.play()
+    size = constrain(size, 20, 100)
+
+    if (hue > 100) {
+        hue = 0
     }
-
-    if (position.y > windowHeight - radius || position.y < radius) {
-        speed.y = speed.y * -1
-        // sound.play()
-    }
-
-    positionX = constrain(position.x, radius, windowWidth - radius)
-    positionY = constrain(position.y, radius, windowHeight - radius)
+    flowers.push(
+        new Flower(mouseX, mouseY, hue, size)
+    )
 }
 
-function mouseClicked() {
-    let angle = random(TWO_PI)
-    speed.rotate(angle)
-}
 
-function windowResized() {
-    resizeCanvas(windowWidth, windowHeight)
+function mouseReleased() {
+    hue = random(0, 100)
+    size = 20
 }
-

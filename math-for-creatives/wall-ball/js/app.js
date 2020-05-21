@@ -10,12 +10,12 @@ let radius
 function setup() {
     createCanvas(windowWidth, windowHeight)
     position = createVector(100, 50)
-    speed = createVector(5, 5)
+    speed = createVector(20, 5)
     radius = 50
 }
 
 function draw() {
-    background("#fe934b30")
+    background("#fe934b90")
     fill("#fff")
     noStroke()
     circle(position.x, position.y, radius * 2)

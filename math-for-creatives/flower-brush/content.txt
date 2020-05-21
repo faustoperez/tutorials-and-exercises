@@ -1,14 +1,8 @@
-Wall Ball
+Flower Brush
 
-Demo: https://wall-ball.superhi.com/
+Demo: 
+https://flower-brush.superhi.com/
 
-Ball radius: 50
+Starting size: 20
+Background color: #111118
 
-Colors:
-Background: #fe934b
-Background with trail: #fe934b55
-Ball color: #ffffff
-
-Audio:
-drop.mp3
-https://freesound.org/people/Porphyr/sounds/191678/
