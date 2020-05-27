@@ -18,7 +18,7 @@ function draw() {
 }
 
 function mouseDragged() {
-    hue = hue + 0.1
+    hue = hue + 0.5
     size = size + 1
 
     size = constrain(size, 20, 100)
@@ -35,4 +35,10 @@ function mouseDragged() {
 function mouseReleased() {
     hue = random(0, 100)
     size = 20
+}
+
+function keyTyped() {
+    if (key === "s") {
+        saveCanvas("flowers", "png")
+    }
 }

@@ -7,8 +7,10 @@ class Flower {
         this.y = y
         this.hue = hue
         this.midSize = size
-        this.petalDist = size
-        this.numOfPetals = random(3, 10)
+        this.petalDist = size / 2 + random(0, 10)
+        this.numOfPetals = random(7, 20)
+        this.rotation = 0
+        this.rotationSpeed = random(-0.01, 0.01)
        
     }
 
@@ -22,7 +24,7 @@ class Flower {
 
 
         for (let num = 0 ; num < this.numOfPetals; num = num + 1) {
-            let angle = TWO_PI * num / this.numOfPetals
+            let angle = TWO_PI * num / this.numOfPetals + this.rotation
 
             //let px = this.petalDist * cos(angle)
             //let py = this.petalDist * sin(angle)
@@ -33,6 +35,8 @@ class Flower {
 
             circle(this.x + branch.x, this.y + branch.y, 10)
         }
+
+        this.rotation = this.rotation + this.rotationSpeed
 
     }
 
