@@ -1,0 +1,12 @@
+Blobbo
+
+Demo: https://blobbo.superhi.com/
+
+Circle radius: 250  
+
+Colors:
+Background: #7446df
+Blob color: #91fc9e
+
+Inspiration:
+https://www.hailpixel.com/articles/generative-art-simple-mathematics
