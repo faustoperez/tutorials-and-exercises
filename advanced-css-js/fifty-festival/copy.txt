@@ -1,0 +1,88 @@
+Desktop font styles:
+
+Body: 18px/1.5 'LunchType-Regular'
+Marquee: 5vw/1 'LunchType-Medium'
+Intro: 36px/1.2 'LunchType-Regular'
+Date: 21px
+Artist: 48px/1
+Register: 40px
+
+Mobile font syles:
+
+Intro: 20px
+Artist: 30px
+Register: 30px
+
+Colors:
+
+Black: #111118
+Green: #00B290
+Pink: #FF74A7
+Beige: #FFEED1
+Orange: #FF4327
+
+Page copy:
+
+
+FIFTY Music Festival — November 10–12, Desert Valley
+
+Held in the beautiful San Bernadino, CA, the first annual FIFTY Music Festival is an unmissable event. Over the course of 3 days, we invite the rising stars in music from 50 different countries all over the world for a unique, cultural extravaganza.
+
+
+Friday Nov 10
+
+Natti Natasha
+Argentina
+
+Post Malone
+United States
+
+Shirley Setia
+New Zealand / India
+
+Axwell /\ Ingrosso
+Sweden
+
+…and more TBA
+
+
+Saturday Nov 11
+
+Kyary Pamyu Pamyu
+Japan
+
+Stella Mwangi
+Kenya / Norway
+
+Wizkid
+Nigeria
+
+Stormzy
+UK
+
+…and more TBA
+
+
+Sunday Nov 12
+
+Swet Shop Boys
+UK / US
+
+Christine and the Queens
+France
+
+Ryan McGeady
+Scotland
+
+Die Antwoord
+South Africa
+
+…and more TBA
+
+
+Register for festival updates
+
+Enter your email
+Submit
+
+↑ Back to top
