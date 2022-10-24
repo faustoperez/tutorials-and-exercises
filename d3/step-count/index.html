@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Step count</title>
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <nav>
+        <h1>Hello Rik</h1>
+
+        <h2>Worst day</h2>
+        <p>1,000 steps</p>
+
+        <h2>Average day</h2>
+        <p>6,000 steps</p>
+
+        <h2>Best day</h2>
+        <p>13,000 steps</p>
+
+        <h2>Total last 28 days</h2>
+        <p>250,000 steps</p>
+
+        <h2>Total so far today</h2>
+        <p>12,000 steps</p>
+    </nav>
+    <main>
+        <h1>Today</h1>
+        <svg width="900" height="600">
+            <rect x="0" y="40" width="300" height="50"></rect>
+            <rect x="0" y="100" width="350" height="50"></rect>
+            <rect x="0" y="160" width="200" height="50"></rect>
+        </svg>
+
+        <h1>Last 28 days</h1>
+        <svg width="900" height="600">
+            <circle cx="50" cy="80" r="50"></circle>
+            <circle cx="180" cy="80" r="40"></circle>
+            <circle cx="250" cy="80" r="20"></circle>
+        </svg>
+    </main>
+</body>
+</html>
